@@ -161,6 +161,7 @@ position: fixed;
  display: flex;
 }
 .slide_2{
+    position: absolute;
     color: #FFF;
     font-family: 'TT Bluescreens Trl Cnd';
     font-size: 96px;
@@ -174,7 +175,7 @@ position: fixed;
     height: 86px; 
     left: 0px;
     border-radius: 50%;
- 
+    padding-left: 90px;
 }
 .line__img{
 
